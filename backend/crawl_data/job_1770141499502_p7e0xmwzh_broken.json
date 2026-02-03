@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.education.gov.in/",
+    "status": 403,
+    "statusText": "Forbidden",
+    "responseTime": 424,
+    "broken": true,
+    "source": "https://clat.iitk.ac.in/",
+    "depth": 1,
+    "type": "external",
+    "timestamp": "2026-02-03T17:58:35.316Z"
+  },
+  {
+    "url": "https://forum.prutor.ai/",
+    "status": 403,
+    "statusText": "Forbidden",
+    "responseTime": 799,
+    "broken": true,
+    "source": "https://clat.iitk.ac.in/",
+    "depth": 1,
+    "type": "external",
+    "timestamp": "2026-02-03T17:59:10.040Z"
+  },
+  {
+    "url": "https://www.instagram.com/ml.prutor.ai/",
+    "status": 429,
+    "statusText": "Too Many Requests",
+    "responseTime": 261,
+    "broken": true,
+    "source": "https://clat.iitk.ac.in/",
+    "depth": 1,
+    "type": "external",
+    "timestamp": "2026-02-03T17:59:19.556Z"
+  },
+  {
+    "url": "https://forum.prutor.ai/index.php",
+    "status": 403,
+    "statusText": "Forbidden",
+    "responseTime": 834,
+    "broken": true,
+    "source": "https://clat.iitk.ac.in/sathee-clat/daily-doubtclearing/",
+    "depth": 2,
+    "type": "external",
+    "timestamp": "2026-02-03T18:00:20.175Z"
+  }
+]
